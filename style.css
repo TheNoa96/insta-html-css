@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  background: white
+}
+header{
+  margin: 0;
+}
+div.post{
+  width: 100%;
+  height: 400px;
+  background: white;
+  border: 1px solid white;
+  margin: 0;
+}
+h5 {
+  position: relative;
+  left: 30px;
+}
+div.container{
+  width: 400px;
+  margin: auto;
+}
+h2 {
+  left: 380px;
+  bottom: 80px;
+}
+.relative{
+   position: relative;
+   left: 380px;
+   bottom: 50px;
+}
+.top-img{
+  width: 25px; 
+  height:25px; 
+  position: relative; 
+  top: 55px;
+}
+.text{
+  position: relative; 
+  left: 30px;
+  top: 5px;
+}
